@@ -1,6 +1,6 @@
 # Welcome to client side code
-## My website url https://fresh-valley-40c50.web.app/
-## Beackend code link: https://github.com/Samsul580/fresh-valley-ecommerce-server
+## 
+## 
 ## Description
 this is my first node and react assignment. This experience is very hard. I was trying to make this assignment parfectly.
 
