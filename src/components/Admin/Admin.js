@@ -16,7 +16,7 @@ const Admin = () => {
             price: data.price,
             image: imageURL
         };
-        const url = 'https://cherry-crumble-46990.herokuapp.com/addProduct';
+        const url = 'https://radiant-refuge-65758.herokuapp.com/addProduct';
         console.log(productData);
         fetch(url, {
             method: 'POST',
